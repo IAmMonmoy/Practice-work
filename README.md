@@ -1,1 +1,1 @@
-# Practice-work
+This repository is for learing through practicing.

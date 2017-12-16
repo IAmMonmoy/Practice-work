@@ -1,0 +1,8 @@
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\bin\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.deps.json
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\bin\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.runtimeconfig.json
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\bin\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.runtimeconfig.dev.json
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\bin\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.dll
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\bin\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.pdb
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\obj\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.AssemblyInfo.cs
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\obj\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.dll
+I:\github\Practice-work\DotNetCore\MakeWebApplicationFromConsole\obj\Debug\netcoreapp1.1\MakeWebApplicationFromConsole.pdb

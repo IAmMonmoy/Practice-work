@@ -1,4 +1,6 @@
 ﻿using System;
+using ConsoleToWeb;
+using Microsoft.AspNetCore.Hosting;
 
 namespace MakeWebApplicationFromConsole
 {
@@ -6,7 +8,11 @@ namespace MakeWebApplicationFromConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var host = new WebHostBuilder()
+                       .UseKestrel()
+                       .UseStartup<StartUp>()
+                       .Build();
+            host.Run();
         }
     }
 }

@@ -1,0 +1,12 @@
+I:\github\Practice-work\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+I:\github\Practice-work\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+I:\github\Practice-work\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+I:\github\Practice-work\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+I:\github\Practice-work\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+I:\github\Practice-work\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+I:\github\Practice-work\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+I:\github\Practice-work\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\github\Practice-work\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+I:\github\Practice-work\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+I:\github\Practice-work\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+I:\github\Practice-work\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
